@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Sanjay!
 
 Aspiring FullStack | AI | Web3  
-<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6eTdja2k3ZDF2cWI0b3NjNTVramJqNTA0b3llOXZ5dnY5aHNtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+<img align="right" width="350" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6eTdja2k3ZDF2cWI0b3NjNTVramJqNTA0b3llOXZ5dnY5aHNtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 - 🔭 Here's my [portfolio](https://sanjay-here.neocities.org/Portfolio/)
 - 🌱 Currently exploring AI integration in development workflows and Web3
