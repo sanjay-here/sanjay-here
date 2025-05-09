@@ -27,7 +27,7 @@ Aspiring FullStack | AI | Web3
 
 ### ⚙️ Tools & IDEs
 
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/git.png"/> <img height="50" src="https://img.icons8.com/color/48/firebase.png"/> <img height="50" src="https://img.icons8.com/fluency/48/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png" />
+<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/git.png"/> <img height="50" src="https://img.icons8.com/fluency/48/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png" />
 
 ---
 
