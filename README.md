@@ -47,9 +47,7 @@ Aspiring FullStack | AI | Web3
 
 ### 🤖 AI Tools I Use
 
-<img height="40" src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logoColor=white" />
-<img height="40" src="https://img.shields.io/badge/TempoLabs-4CAF50?style=for-the-badge&logoColor=white" />
-<img height="40" src="https://img.shields.io/badge/Gamma.app-6F42C1?style=for-the-badge&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logoColor=white" /> <img height="40" src="https://img.shields.io/badge/TempoLabs-4CAF50?style=for-the-badge&logoColor=white" /> <img height="40" src="https://img.shields.io/badge/Gamma.app-6F42C1?style=for-the-badge&logoColor=white" />
 
 ---
 
