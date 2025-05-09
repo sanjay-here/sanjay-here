@@ -1,13 +1,12 @@
 ## 👋 Hi there, I'm Sanjay!
 
 Aspiring FullStack | AI | Web3  
-<img align="right" width="370" height="290" src="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">
+<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6eTdja2k3ZDF2cWI0b3NjNTVramJqNTA0b3llOXZ5dnY5aHNtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 - 🔭 Here's my [portfolio](https://sanjay-here.neocities.org/Portfolio/)
 - 🌱 Currently exploring AI integration in development workflows and Web3
 - 🧠 Passionate about creating smart tools and web utilities
 - 📄 [My Resume](https://drive.google.com/drive/folders/1ALP77B_2hwFMkU7bDVuhOsWV19x7OPz_)
-- ⚡ Fun fact: I automate everything I can!
 
 ---
 
@@ -53,5 +52,7 @@ Aspiring FullStack | AI | Web3
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-here&theme=radical&show_icons=true&hide=issues)
 
 ---
+
+- ⚡ Fun fact: I automate everything I can!
 
 _Thanks for visiting! 🚀_
