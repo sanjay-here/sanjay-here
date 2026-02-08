@@ -67,10 +67,6 @@
 
 ---
 
-> Using AI as a **developer multiplier**, not a shortcut.
-
----
-
 ## 💻 Development Setup
 
 ![HP Victus](https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white)
