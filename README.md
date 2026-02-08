@@ -82,12 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay-here&theme=radical&show_icons=true&hide=issues)
-
----
-
 ⚡ **Fun fact:** I automate everything I can — from workflows to learning itself.
 
 _Thanks for visiting! 🚀_
